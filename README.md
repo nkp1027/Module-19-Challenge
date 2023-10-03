@@ -17,9 +17,9 @@ Streamlit, Web3.py, ethereum-tester, Ganache
 
 ## Installation
 To install streamlit you must: pip install streamlit
-
+-
 To install web3 you must: pip install web3==5.17
-
+-
 To install etheruem tester you must: pip install eth-tester==0.5.0b3
-
+-
 To install Ganache you just go to their website and install it whether you have windows or mac
